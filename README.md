@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-An experienced front-end developer with experience in React.js, Tailwind CSS, HTML, CSS, and JavaScript,<br>with a solid foundation in Node.js and MongoDB. Passionate about clean code, scalable architecture, and sustainable coding practices. Interested in contributing to innovative teams and growing through new development<br>opportunities.
+An experienced front-end developer with experience in React.js, Tailwind CSS, HTML, CSS, and JavaScript,<br>with a solid foundation in Node.js and MongoDB. Passionate about clean code, scalable architecture, and sustainable coding practices. Interested in contributing to innovative teams and growing through new development<br>opportunities.
 
 
 ## 🌐 Socials:
